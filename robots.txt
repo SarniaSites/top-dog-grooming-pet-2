@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sarniasites.github.io/top-dog-grooming-pet-2/sitemap.xml

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100" role="img" aria-label="Top Dog Grooming and Pet Care">
+  <g transform="translate(0 4)"><path d="M50 85C22 65 5 49 5 29 5 15 15.5 5 28.5 5 38 5 45.5 10.5 50 18.5 54.5 10.5 62 5 71.5 5 84.5 5 95 15 95 29c0 20-17 36-45 56Z" fill="none" stroke="#43A637" stroke-width="7" stroke-linejoin="round"/><g fill="#18211B"><ellipse cx="33" cy="38" rx="5.6" ry="6.8"/><ellipse cx="43.5" cy="28.5" rx="5.8" ry="7"/><ellipse cx="56.5" cy="28.5" rx="5.8" ry="7"/><ellipse cx="67" cy="38" rx="5.6" ry="6.8"/><path d="M50 40c8.5 0 17 9.5 17 17 0 6.4-5.6 8.4-9.4 8.4-3 0-4.6-1.9-7.6-1.9s-4.6 1.9-7.6 1.9c-3.8 0-9.4-2-9.4-8.4 0-7.5 8.5-17 17-17Z"/></g></g>
+  <text x="112" y="62" font-family="Gabarito, 'Arial Black', Arial, sans-serif" font-weight="900" font-size="56" fill="#18211B" letter-spacing="1">TOP <tspan fill="#43A637">DOG</tspan></text>
+  <text x="114" y="88" font-family="Arial, sans-serif" font-weight="700" font-size="15" fill="#4E5B52" letter-spacing="3.4">GROOMING &amp; PET CARE</text>
+</svg>
